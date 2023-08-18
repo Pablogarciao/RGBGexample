@@ -43,6 +43,7 @@ int main() {
 
     ledR.write(pr);
     ledG.write(pg);
-    ledB.write(pb);
+    ledB.write(pb);//ubdeiner
+
 }
 
